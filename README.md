@@ -1,54 +1,64 @@
-# For chatGPT
+# Facebook Post UI
 
-TODO: Describe Project
+![Screenshot](https://github.com/Dinujaya-Sandaruwan/Facebook-Post-UI/assets/88492493/7ca76081-9d64-4f77-a34e-649f89e4e9fd)
 
-Package.json :
+## About The Project
 
-TODO: Add Package.json
+This project is a Facebook-inspired post UI built using React and TypeScript. It provides an easy-to-use and customizable interface that can be integrated into any project.
 
-Those are the details about my project and I need to add this in my GitHub.
+## Used Technologies
 
-Write a complete readme.md file for this project
+The following technologies were used to build this project:
 
-Readme.md file details :
+-   React: A JavaScript library for building user interfaces.
+-   TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
+-   React Icons: A collection of popular icons for React applications.
+-   React Image Gallery: A customizable image gallery component for React.
 
-Title :- TODO: add Title
+## Usage
 
-1.  About The Project -> (A description about project. use more than 50 words)
+The Facebook Post UI offers the following features:
 
-Need to add a screenshot of this project (align-center)(url- TODO: https://dinujaya.com/img.jpg) This image should link to live preview page(url - TODO: http://dinujaya.com/)
+-   Displaying a post with a user profile picture, name, post content, and timestamp.
+-   React Icons integration for displaying icons such as like, comment, and share.
+-   React Image Gallery integration for showcasing multiple images in a post.
 
-2.  Used Technologies -> (Add what I used to build this project. programming languages, tools and modules. Explain what are those technologies with short description)
-3.  Usage -> (Give complete usetage of this project, Features, how to use them and how they will be usefull to user)
-4.  How to use -> (Give a complete detailed guid about how to install this project) => (
+To use these features, simply import the necessary components from the package and incorporate them into your React application. You can customize the post content, user details, and styling as per your project requirements.
 
-    How to Clone this repository (), Install the dependencies, Run the development server
-    LocalHost URL = http://localhost:5173/
-    Repository URL = TODO: REPO URL
+## How to Use
 
-    Explain how to do above things
-    )
+To use this project, follow the steps below:
 
-5.  Contributing -> (Explain how to contribute this project)
-6.  License -> (MIT License) (Explain how MIT License works)
-7.  Contact -> (Add my contact details in linked texts) => (
+1.  Clone this repository to your local machine: `git clone https://github.com/Dinujaya-Sandaruwan/Facebook-Post-UI`
+2.  Navigate to the project directory: `cd Facebook-Post-UI`
+3.  Install the dependencies: `npm install`
+4.  Run the development server: `npm run dev`
+5.  Open your browser and visit [http://localhost:5173/](http://localhost:5173/) to see the project in action.
 
-    this is linked text and URL
+## Contributing
 
-    FaceBook : https://www.facebook.com/dinujaya.sandaruwan/
-    Linkedin : https://www.linkedin.com/in/dinujaya-sandaruwan-23bb09201/
-    Sololearn : https://www.sololearn.com/profile/28608081
-    Youtube : https://www.youtube.com/channel/UCVwXuCDRdBjzNUOWYOCO_xg
+Contributions to this project are welcome. If you would like to contribute, please follow these steps:
 
-)(Email : info.dinujaya@gmail.com)
+1.  Fork the repository on GitHub.
+2.  Clone the forked repository to your local machine.
+3.  Create a new branch and make your changes.
+4.  Commit and push your changes to your forked repository.
+5.  Submit a pull request to the original repository.
 
-8.  Acknowledgments -> (
+## License
 
-        Idea :
-        Inspired :
+This project is licensed under the MIT License. You can find the license details in the [LICENSE](https://opensource.org/license/mit/) file.
 
-        Write about how they helped to do this project
+## Contact
 
-    )
+Feel free to contact me if you have any questions or suggestions regarding this project:
 
-Change anything other than Details as you wish. Create a beautiful template.
+-   Email: [info.dinujaya@gmail.com](mailto:info.dinujaya@gmail.com)
+-   [Facebook](https://www.facebook.com/dinujaya.sandaruwan/)
+-   [LinkedIn](https://www.linkedin.com/in/dinujaya-sandaruwan-23bb09201/)
+-   [Sololearn](https://www.sololearn.com/profile/28608081)
+-   [YouTube](https://www.youtube.com/channel/UCVwXuCDRdBjzNUOWYOCO_xg)
+
+## Acknowledgments
+
+I would like to express my gratitude to all of my teachers for their guidance and support throughout the development of this project.
