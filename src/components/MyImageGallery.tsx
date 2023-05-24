@@ -16,6 +16,26 @@ const MyImageGallery: React.FC = () => {
             original: 'https://picsum.photos/id/1019/1000/600/',
             thumbnail: 'https://picsum.photos/id/1019/250/150/',
         },
+        {
+            original: 'https://picsum.photos/id/1020/1000/600/',
+            thumbnail: 'https://picsum.photos/id/1020/250/150/',
+        },
+        {
+            original: 'https://picsum.photos/id/1021/1000/600/',
+            thumbnail: 'https://picsum.photos/id/1021/250/150/',
+        },
+        {
+            original: 'https://picsum.photos/id/1022/1000/600/',
+            thumbnail: 'https://picsum.photos/id/1022/250/150/',
+        },
+        {
+            original: 'https://picsum.photos/id/1023/1000/600/',
+            thumbnail: 'https://picsum.photos/id/1023/250/150/',
+        },
+        {
+            original: 'https://picsum.photos/id/1024/1000/600/',
+            thumbnail: 'https://picsum.photos/id/1024/250/150/',
+        },
     ];
 
     return (
@@ -26,7 +46,7 @@ const MyImageGallery: React.FC = () => {
             slideInterval={2000}
             slideOnThumbnailOver={true}
             showIndex={true}
-            thumbnailPosition="left"
+            thumbnailPosition="bottom"
         />
     );
 };
