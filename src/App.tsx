@@ -1,9 +1,9 @@
-import Preview from './components/Preview';
+import MyImageGallery from './components/MyImageGallery';
 
 function App() {
     return (
         <div className="App">
-            <Preview />
+            <MyImageGallery />
         </div>
     );
 }
